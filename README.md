@@ -1,2 +1,14 @@
-# 100-days-dsa-web-ai
-My 100 days challenge: DSA + Web Dev + AI/ML
+# 100 Days DSA + Web Dev + AI/ML Challenge
+
+## Progress
+- Day 1–4: Arrays (DSA)
+- HTML completed
+- NumPy basics started
+
+## Languages
+- Java
+- Python
+- HTML
+
+## Goal
+To become placement & internship ready by building strong fundamentals.
